@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258972187864",
+    "firebase_url": "https://comfacasanare-1186a.firebaseio.com",
+    "project_id": "comfacasanare-1186a",
+    "storage_bucket": "comfacasanare-1186a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258972187864:android:64b1b2a4ac57356439ebad",
+        "android_client_info": {
+          "package_name": "com.comfa.casanare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258972187864-9clknuev68ktmp4fachcmdkhif10q781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNWmbx60fXS4h-OrWpZJ4odbgx0vEQvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258972187864-9clknuev68ktmp4fachcmdkhif10q781.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
